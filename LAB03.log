@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.20)  22 OCT 2026 12:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.20)  28 OCT 2026 21:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -358,16 +358,16 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
  (C:\Users\sinja\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<skica1.jpg, id=1, 3818.265pt x 1117.17375pt>
-File: skica1.jpg Graphic file (type jpg)
-<use skica1.jpg>
-Package pdftex.def Info: skica1.jpg  used on input line 43.
-(pdftex.def)             Requested size: 469.75502pt x 137.4303pt.
-<skica2.jpg, id=2, 3924.6625pt x 2523.4275pt>
-File: skica2.jpg Graphic file (type jpg)
-<use skica2.jpg>
-Package pdftex.def Info: skica2.jpg  used on input line 59.
-(pdftex.def)             Requested size: 234.8775pt x 151.01407pt.
+<popravljeno1.jpg, id=1, 2863.69875pt x 837.88031pt>
+File: popravljeno1.jpg Graphic file (type jpg)
+<use popravljeno1.jpg>
+Package pdftex.def Info: popravljeno1.jpg  used on input line 43.
+(pdftex.def)             Requested size: 469.75502pt x 137.43883pt.
+<popravljeno2.jpg, id=2, 2943.49687pt x 1892.57062pt>
+File: popravljeno2.jpg Graphic file (type jpg)
+<use popravljeno2.jpg>
+Package pdftex.def Info: popravljeno2.jpg  used on input line 59.
+(pdftex.def)             Requested size: 234.8775pt x 151.00444pt.
 <skica3.jpg, id=3, 2256.43pt x 3149.7675pt>
 File: skica3.jpg Graphic file (type jpg)
 <use skica3.jpg>
@@ -375,13 +375,13 @@ Package pdftex.def Info: skica3.jpg  used on input line 72.
 (pdftex.def)             Requested size: 140.92793pt x 196.7158pt.
  [1
 
-{C:/Users/sinja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./skica1.jpg>]
-<skica4.jpg, id=12, 3994.925pt x 2001.4775pt>
-File: skica4.jpg Graphic file (type jpg)
-<use skica4.jpg>
-Package pdftex.def Info: skica4.jpg  used on input line 90.
-(pdftex.def)             Requested size: 234.8775pt x 117.6708pt.
- [2 <./skica2.jpg> <./skica3.jpg>] [3 <./skica4.jpg>] (LAB03.aux)
+{C:/Users/sinja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./popravljeno1.jpg>]
+<popravljeno3.jpg, id=12, 2996.19376pt x 1501.10812pt>
+File: popravljeno3.jpg Graphic file (type jpg)
+<use popravljeno3.jpg>
+Package pdftex.def Info: popravljeno3.jpg  used on input line 90.
+(pdftex.def)             Requested size: 234.8775pt x 117.66316pt.
+ [2 <./popravljeno2.jpg> <./skica3.jpg>] [3 <./popravljeno3.jpg>] (LAB03.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-10-24>
@@ -389,14 +389,14 @@ L3 programming layer <2025-10-24>
  ) 
 Here is how much of TeX's memory you used:
  10192 strings out of 467871
- 221725 string characters out of 5418375
+ 221851 string characters out of 5418375
  611793 words of memory out of 5000000
  38989 multiletter control sequences out of 15000+600000
  635276 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,7n,80p,304b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on LAB03.pdf (3 pages, 505991 bytes).
+Output written on LAB03.pdf (3 pages, 2110378 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
