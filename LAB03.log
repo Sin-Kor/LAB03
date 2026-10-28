@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.20)  28 OCT 2026 21:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.20)  28 OCT 2026 22:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -280,20 +280,20 @@ Package babel Info: 'slovenian' activates 'slovene' shorthands.
 )
 \openout1 = `LAB03.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
  (C:\Users\sinja\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count322
@@ -349,37 +349,37 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-Package translations Info: no dictionary file `translations-basic-dictionary-slovenian.trsl' found. on input line 18.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+Package translations Info: no dictionary file `translations-basic-dictionary-slovenian.trsl' found. on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
 (C:\Users\sinja\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
  (C:\Users\sinja\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <popravljeno1.jpg, id=1, 2863.69875pt x 837.88031pt>
 File: popravljeno1.jpg Graphic file (type jpg)
 <use popravljeno1.jpg>
-Package pdftex.def Info: popravljeno1.jpg  used on input line 43.
+Package pdftex.def Info: popravljeno1.jpg  used on input line 44.
 (pdftex.def)             Requested size: 469.75502pt x 137.43883pt.
 <popravljeno2.jpg, id=2, 2943.49687pt x 1892.57062pt>
 File: popravljeno2.jpg Graphic file (type jpg)
 <use popravljeno2.jpg>
-Package pdftex.def Info: popravljeno2.jpg  used on input line 59.
+Package pdftex.def Info: popravljeno2.jpg  used on input line 60.
 (pdftex.def)             Requested size: 234.8775pt x 151.00444pt.
 <skica3.jpg, id=3, 2256.43pt x 3149.7675pt>
 File: skica3.jpg Graphic file (type jpg)
 <use skica3.jpg>
-Package pdftex.def Info: skica3.jpg  used on input line 72.
+Package pdftex.def Info: skica3.jpg  used on input line 73.
 (pdftex.def)             Requested size: 140.92793pt x 196.7158pt.
  [1
 
 {C:/Users/sinja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./popravljeno1.jpg>]
-<popravljeno3.jpg, id=12, 2996.19376pt x 1501.10812pt>
+<popravljeno3.jpg, id=13, 2996.19376pt x 1501.10812pt>
 File: popravljeno3.jpg Graphic file (type jpg)
 <use popravljeno3.jpg>
-Package pdftex.def Info: popravljeno3.jpg  used on input line 90.
+Package pdftex.def Info: popravljeno3.jpg  used on input line 91.
 (pdftex.def)             Requested size: 234.8775pt x 117.66316pt.
  [2 <./popravljeno2.jpg> <./skica3.jpg>] [3 <./popravljeno3.jpg>] (LAB03.aux)
  ***********
@@ -390,13 +390,13 @@ L3 programming layer <2025-10-24>
 Here is how much of TeX's memory you used:
  10192 strings out of 467871
  221851 string characters out of 5418375
- 611793 words of memory out of 5000000
+ 612790 words of memory out of 5000000
  38989 multiletter control sequences out of 15000+600000
  635276 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,7n,80p,304b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,7n,80p,304b,619s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/sinja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on LAB03.pdf (3 pages, 2110378 bytes).
+Output written on LAB03.pdf (3 pages, 2110731 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
